@@ -21,9 +21,6 @@ This repository is dedicated to my ALX learning journey focusing on Git. Here, y
 
 Feel free to browse through the repository to see my progress. If you have any suggestions or resources that could help me in my learning journey, please open an issue or submit a pull request.
 
-## License
-
-
 ---
 
 Thank you for visiting my repository!
